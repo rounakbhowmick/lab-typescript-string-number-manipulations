@@ -1,12 +1,10 @@
-
 {
-    "compileOnSave": true,
-    "compilerOptions": {
-      "removeComments": true,
-      "target": "es6",
-    },
-    "files": [
-      "main-service.ts"
-  
-    ]
-  }
+  "compileOnSave": true,
+  "compilerOptions": {
+    "removeComments": true,
+    "target": "es6",
+  },
+  "files": [
+    "main-service.ts"
+  ]
+}
